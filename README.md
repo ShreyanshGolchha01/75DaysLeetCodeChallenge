@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
