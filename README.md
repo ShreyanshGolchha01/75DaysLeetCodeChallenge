@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
