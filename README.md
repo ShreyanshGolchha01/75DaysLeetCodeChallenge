@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## String
@@ -81,4 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
