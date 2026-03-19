@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
