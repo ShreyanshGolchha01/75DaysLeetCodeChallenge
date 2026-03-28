@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2573-find-the-string-with-lcp](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 ## Enumeration
 |  |
 | ------- |
