@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [2751-robot-collisions](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Design
 |  |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0577-employee-bonus) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
