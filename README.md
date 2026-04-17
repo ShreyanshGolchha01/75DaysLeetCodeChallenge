@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0342-power-of-four](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
