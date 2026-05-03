@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
