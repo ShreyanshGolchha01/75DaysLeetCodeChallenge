@@ -1,10 +1,10 @@
 class Solution {
 public:
-    int totalFruit(vector<int>& fruits) {
+    int totalFruit(vector<int>& fruits1) {
         int last = -1, secondLast = -1;
-        int lastCount = 0, curr = 0, maxFruits = 0;
+        int lastCount = 0, curr = 0, maxfruits1 = 0;
 
-        for (int fruit : fruits) {
+        for (int fruit : fruits1) {
             if (fruit == last || fruit == secondLast) {
                 curr++;
             } else {
@@ -19,9 +19,9 @@ public:
                 last = fruit;
             }
 
-            maxFruits = max(maxFruits, curr);
+            maxfruits1 = max(maxfruits1, curr);
         }
 
-        return maxFruits;
+        return maxfruits1;
     }
 };
