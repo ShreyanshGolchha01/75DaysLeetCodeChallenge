@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3379-transformed-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3379-transformed-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Stack
 |  |
