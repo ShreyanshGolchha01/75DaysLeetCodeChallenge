@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1345-jump-game-iv](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
