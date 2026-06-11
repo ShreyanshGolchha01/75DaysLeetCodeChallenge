@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search Tree
