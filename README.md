@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
