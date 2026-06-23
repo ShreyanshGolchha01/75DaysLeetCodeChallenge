@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0819-most-common-word](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0819-most-common-word](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0819-most-common-word](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
