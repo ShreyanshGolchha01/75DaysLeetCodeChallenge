@@ -21,11 +21,10 @@ public:
         sort(pref.begin(),pref.end());
         // if(nums.size()%2!=0) return pref[(nums.size()/2)];
         long long ans = 0;
-        while(pref.size()>1)
+        int l = 0,r = pref.size() - 1;
+        while(l<r)
         {
-            ans = ans + gcd(pref.front(),pref.back());
-            pref.erase(pref.begin());
-            pref.pop_back();
+            ans+=gcd(pref[l++],pref[r--]);
         }
         return ans;
     }
