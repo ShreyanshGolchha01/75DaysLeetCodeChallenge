@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0984-string-without-aaa-or-bbb](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0984-string-without-aaa-or-bbb) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
+| [0984-string-without-aaa-or-bbb](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0984-string-without-aaa-or-bbb) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
