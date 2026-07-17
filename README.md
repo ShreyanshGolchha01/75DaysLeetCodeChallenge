@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0984-string-without-aaa-or-bbb](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0984-string-without-aaa-or-bbb) |
+| [0991-broken-calculator](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
+| [0991-broken-calculator](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
