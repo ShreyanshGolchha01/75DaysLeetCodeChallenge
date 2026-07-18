@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
