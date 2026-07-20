@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-last-stone-weight](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0984-string-without-aaa-or-bbb) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0819-most-common-word](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
