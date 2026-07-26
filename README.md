@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [0991-broken-calculator](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
