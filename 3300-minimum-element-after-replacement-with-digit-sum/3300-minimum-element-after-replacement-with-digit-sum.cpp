@@ -2,17 +2,15 @@ class Solution {
 public:
     int minElement(vector<int>& nums) {
         int ans = INT_MAX;
-
-        for(int i=0;i<nums.size();i++){
-            int num = nums[i];
-            int sum=0;
-
-            while(num>0){
-                sum+= (num%10);
-                num/=10;
+        for(int i:nums)
+        {
+            string s = to_string(i);
+            int sum = 0;
+            for(char c: s)
+            {
+                sum+=c-'0';
             }
-
-            if(sum<ans) ans=sum;
+            ans = min(ans,sum);
         }
         return ans;
     }
