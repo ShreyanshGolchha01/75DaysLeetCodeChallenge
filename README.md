@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [0991-broken-calculator](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
@@ -962,4 +965,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
