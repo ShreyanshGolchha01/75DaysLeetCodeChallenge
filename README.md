@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0984-string-without-aaa-or-bbb](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0984-string-without-aaa-or-bbb) |
 | [0991-broken-calculator](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
