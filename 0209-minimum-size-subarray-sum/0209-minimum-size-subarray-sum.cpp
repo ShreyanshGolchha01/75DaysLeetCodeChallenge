@@ -1,21 +1,20 @@
 class Solution {
 public:
-    int minSubArrayLen(int target, std::vector<int>& nums) {
-        int left = 0, right = 0;
+    int minSubArrayLen(int target, vector<int>& nums) {
+        int ans = INT_MAX;
         int sum = 0;
-        int ans = std::numeric_limits<int>::max();
+        int i = 0;
+        for(int j = 0; j < nums.size(); j++)
+        {
+            sum += nums[j];
 
-        while (right < nums.size()) {
-            sum += nums[right];
-            while (sum >= target) {
-                // Update minimum length and shrink the window
-                ans = std::min(ans, right - left + 1);
-                sum -= nums[left];
-                left++;
+            while(sum >= target)
+            {
+                ans = min(ans, j - i + 1);
+                sum -= nums[i];
+                i++;
             }
-            right++;
         }
-
-        return (ans == std::numeric_limits<int>::max()) ? 0 : ans;
+        return ans == INT_MAX ? 0 : ans;
     }
 };
