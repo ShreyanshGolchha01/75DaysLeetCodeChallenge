@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
+| [0940-distinct-subsequences-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [0984-string-without-aaa-or-bbb](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0984-string-without-aaa-or-bbb) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
