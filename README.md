@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [0991-broken-calculator](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Number Theory
