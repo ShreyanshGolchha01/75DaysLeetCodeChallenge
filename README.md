@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
@@ -1095,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
