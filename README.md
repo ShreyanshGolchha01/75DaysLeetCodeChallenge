@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1796-second-largest-digit-in-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1796-second-largest-digit-in-a-string) |
 | [1871-jump-game-vii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
