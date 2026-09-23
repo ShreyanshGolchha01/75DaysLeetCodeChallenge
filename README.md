@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
