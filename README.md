@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
