@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1096-brace-expansion-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0984-string-without-aaa-or-bbb) |
 | [1002-find-common-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [1096-brace-expansion-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
@@ -868,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Design
@@ -999,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1096-brace-expansion-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
