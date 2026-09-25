@@ -6,9 +6,9 @@ public:
         {
             if(isupper(word[i])) cap++;
         }
-        if(cap==1 && isupper(word[0])) return true;
-        if(cap == word.length()) return true;
-        if(cap == 0) return true;
-        return false; 
+        if(cap == 1 && isupper(word[0])) return true;
+        else if(cap == word.length()) return true;
+        else if(cap == 0) return true;
+        return false;
     }
 };
