@@ -18,7 +18,7 @@ public:
             temp = temp->next;
         }
         temp = head;
-        for(int i = 0;i<n/2;i++)
+        for(int i = 1;i<=n/2;i++)
         {
             temp = temp->next;
         }
