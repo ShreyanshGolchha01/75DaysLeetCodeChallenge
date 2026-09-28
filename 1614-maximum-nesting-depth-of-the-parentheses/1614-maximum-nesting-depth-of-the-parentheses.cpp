@@ -16,7 +16,7 @@ public:
             {
                 st.pop();
                 op--;
-                maxi = max(maxi,op);
+                // maxi = max(maxi,op);
             }
         }
         return maxi;
