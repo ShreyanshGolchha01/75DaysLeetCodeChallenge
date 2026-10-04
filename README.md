@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0984-string-without-aaa-or-bbb) |
 | [0991-broken-calculator](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0819-most-common-word) |
 | [0940-distinct-subsequences-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
@@ -1236,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
