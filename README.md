@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1254-number-of-closed-islands](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1080,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
