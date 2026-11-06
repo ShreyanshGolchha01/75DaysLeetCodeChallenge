@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
+| [2747-count-zero-request-servers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
