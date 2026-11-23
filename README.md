@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
 | [1140-stone-game-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
@@ -1273,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShreyanshGolchha01/75DaysLeetCodeChallenge/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
